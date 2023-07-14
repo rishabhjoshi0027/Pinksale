@@ -1,0 +1,30 @@
+.css-2royc9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 0;
+}
+/* .MuiBox-root css-hc36pq */
+.css-hc36pq {
+    min-width: 275px;
+    padding: 1rem 1rem 0 1rem;
+}
+.css-11qjisw{
+    display: none;
+}
+.stepper {
+    height: 4rem;
+    margin-top: 1rem;
+  }
+  .css-ascpo7-MuiStepLabel-root {
+    max-width: 17rem;
+  }
+  .css-1869usk-MuiFormControl-root{
+      width: 100%;
+      margin: 0%;
+  }
+  .css-ze8lza-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+      background-color: white;
+  }

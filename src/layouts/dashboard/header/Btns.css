@@ -1,0 +1,82 @@
+.dexbtn {
+  width: 9rem;
+  height: 3rem;
+}
+.dexbtn button {
+  background-color: #f3f3f4;
+  width: 100%;
+  color: black;
+  height: 100%;
+  border-radius: 33px;
+  display: flex;
+  font-weight: 700;
+  align-items: center;
+  border: none;
+  justify-content: space-evenly;
+}
+button:hover {
+  cursor: pointer;
+}
+button img {
+  height: 58%;
+}
+.connectbtn {
+  width: 14rem;
+  height: 3rem;
+}
+.connectbtn button {
+  color: #f95192;
+  background-color: #fdeaf1;
+  width: 100%;
+  /* color: black; */
+  height: 100%;
+  border-radius: 18px;
+  display: flex;
+  font-weight: 700;
+  align-items: center;
+  border: none;
+  justify-content: space-evenly;
+}
+.modalBody {
+  color: #f95192;
+  height: 6rem;
+  border-radius: 4px;
+  background-color: #fdeaf1;
+  display: flex;
+  align-items: center;
+  width: 98%;
+  flex-direction: column;
+  justify-content: center;
+}
+.modalBody:hover {
+  border: 1px solid #f95192;
+  cursor: pointer;
+}
+.modalBodyImg {
+  height: 3rem;
+  width: 45%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modalBodyImg img {
+  height: auto;
+  width: 41px;
+}
+.beforeText::before {
+  content: counter(name);
+}
+.bottomP {
+  font-size: 10px;
+  margin-left: 2rem;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+/* .custom-features-section .custom-features { */
+/* } */
+
+.css-9y9lc8 {
+  color: black;
+  font-size: 14px;
+  font-weight: 500;
+}

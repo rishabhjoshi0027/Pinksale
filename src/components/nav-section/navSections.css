@@ -1,0 +1,8 @@
+.side-navigation-panel-select-inner-option-text{
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+  }
+  .side-navigation-panel-select-inner-option {
+    height: 3.2rem;
+  }
